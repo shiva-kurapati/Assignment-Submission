@@ -1,0 +1,31 @@
+
+.one {
+    
+    height:1300px;
+    width:1300px;
+    background-color: grey;
+}
+
+.hifi {
+    height:200px;
+    width:50%;
+    background-color: tomato;
+}
+
+
+p {
+    color:cornsilk;
+    background-color: rgb(162, 0, 255);
+    font-size: 30px;
+}
+
+   .para1
+   {
+       color:black;
+       background-color:blue;
+   }
+
+#p {
+    color:brown;
+    background-color:yellow;
+}
