@@ -1,0 +1,84 @@
+* {
+    margin: 0px;
+    padding:0px;
+    
+}
+
+
+
+.pro {
+    height: 200px;
+    width: 100%;
+    background-color: grey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   
+}
+ .kid {
+     height: 200px;
+     width: 15%;
+     background: red;
+     
+
+ }
+
+ .core {
+    height: 200px;
+    width: 100%;
+    background-color:black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   display: inline-block;
+   
+
+ }
+
+ .tech {
+
+    height: 200px;
+    width: 20%;
+    background:grey;
+    padding-left: 10px;
+    padding-right: 10px;
+   display: inline-block;
+   margin-left: 2%;
+   margin-right: 1%;
+    
+ } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
